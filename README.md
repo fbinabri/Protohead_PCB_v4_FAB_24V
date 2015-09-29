@@ -19,4 +19,6 @@ In pictures:
 
 ![alt tag](https://github.com/imarin2/Protohead_PCB_v4_FAB_24V/blob/master/images/Protohead_v4_24V_rc1_schm.png?raw=true)
 
+![alt tag](https://github.com/imarin2/Protohead_PCB_v4_FAB_24V/blob/master/images/Protohead_v4_24V_rc1_PCBnew.png?raw=true)
+
 ![alt tag](https://github.com/imarin2/Protohead_PCB_v4_FAB_24V/blob/master/images/Protohead_v4_24V_rc1_flatcam.png?raw=true)
